@@ -9,6 +9,6 @@ $person = new Person();
 
 $person->name = "Abie";
 //Function ini otomatis memanggil $name object saat ini
-$person->sayHello("");
+$person->sayHello("Farel");
 
 ?>
